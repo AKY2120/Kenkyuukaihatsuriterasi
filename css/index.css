@@ -97,8 +97,11 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: "Kiwi Maru", serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
 
 @media (max-width: 800px) {
     .site-menu ul {
